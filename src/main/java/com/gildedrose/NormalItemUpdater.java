@@ -1,3 +1,5 @@
+package com.gildedrose;
+
 public class NormalItemUpdater implements ItemUpdater {
 
     @Override
